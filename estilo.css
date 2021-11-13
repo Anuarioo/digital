@@ -1,0 +1,66 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+
+
+body{
+
+    font-family: 'Algerian';
+    background-color: turquoise;
+}
+
+h2{
+    font-size: 50px;
+    color: rgb(235, 14, 51);
+    text-align: center;
+}
+u{
+    color: rgb(53, 19, 245);
+}   
+
+.contenedor{
+
+    max-width: 1000px;
+
+    margin: auto;
+
+    overflow: hidden;
+
+}
+.container{
+    margin: 20px 40px;
+    color: rgb(212, 12, 22);
+}
+.heading{
+font-family:Algerian ;
+  font-size: 30px;
+  color:rgb(212, 12, 22);
+  text-align: center;
+}
+.profiles{
+        display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+        margin: 20px 80px;
+}
+.profile{
+  flex-basis: 260px;
+}
+.profile .profile-img{
+  height: 400PX;
+  width: 450PX;
+  border: salmon;
+  cursor: pointer;
+  transition: 400ms;
+}   
+
+.profile:hover .profile-img{
+     filter: grayscale(0);
+}

@@ -1,0 +1,86 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+.sont{
+    display:flex ;
+    justify-content: space-evenly;
+    
+
+}
+.bio{ 
+    width: 60%; 
+}
+img{
+    width: 25%;
+    height: 25%;
+}
+.Niño{ 
+background-image: url("FONDO.png");background-size: 1555px;
+background-repeat:no-repeat;
+}
+.CA{ 
+    background-image: url("GRADUACIONF.jpg");background-size: 1600px;
+    background-repeat:no-repeat;
+    }
+p{
+    font-weight: bold;
+}
+.Niña{ 
+    background-image: url("F.jpg");background-size:1550px;
+    background-repeat:no-repeat;
+    }
+    .CC{ 
+        background-image: url("GRADUACION.jpg");background-size: 1350px;
+        background-repeat:no-repeat;
+        }
+        .BW{ 
+            background-image: url("FFFF.jpg");background-size:1400px; 
+            background-repeat:no-repeat;  
+        }
+            .DE{ 
+                background-image: url("FONDO.png");background-size:2300px;
+                background-repeat:no-repeat;
+            }
+
+            .FR{ 
+                background-image: url("GRADUACIONF.jpg");background-size: 1350px;
+                background-repeat:no-repeat;
+                }
+                .JS{ 
+                    background-image: url("FONDO.png");background-size:2000px;
+                    background-repeat:no-repeat;
+                }
+                .LR{ 
+                    background-image: url("FONDO.png");background-size:2000px;
+                    background-repeat:no-repeat;
+                }
+                .JP{ 
+                    background-image: url("GRADUACIONF.jpg");background-size: 2700px;
+                    background-repeat:no-repeat;
+                    }
+                    .JG{ 
+                        background-image: url("F.jpg");background-size: 1400px;
+                        background-repeat:no-repeat;
+                        }
+                        .SR{ 
+                            background-image: url("F.jpg");background-size: 1400px;
+                            background-repeat:no-repeat;
+                            }
+                            .NS{ 
+                                background-image: url("F.jpg");background-size: 1400px;
+                                background-repeat:no-repeat;
+                                }
+                                .DS{ 
+                                    background-image: url("GRADUACIONF.jpg");background-size: 1400px;
+                                    background-repeat:no-repeat;
+                                    }
+                                    .AS{ 
+                                        background-image: url("F.jpg");background-size: 1400px;
+                                        background-repeat:no-repeat;
+                                        }
